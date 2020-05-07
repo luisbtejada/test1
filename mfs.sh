@@ -1,4 +1,4 @@
 NOW=$(date +"%c")
  
 echo "Hello hello World $NOW"
-echo "testing at 5.22PM"
+echo "testing at 34.22PM"
