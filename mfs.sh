@@ -1,3 +1,3 @@
 NOW=$(date +"%c")
  
-echo "Hello World $NOW"
+echo "Hello hello World $NOW"

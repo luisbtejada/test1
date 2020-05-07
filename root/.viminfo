@@ -26,23 +26,28 @@
 	"
 
 # File marks:
-'0  1  0  /mfs.sh
-'1  3  21  /mfs.sh
-'2  2  0  /mfs.sh
-'3  1  23  /mfs.sh
+'0  3  17  /mfs.sh
+'1  3  69  /mss.sh
+'2  1  0  /mfs.sh
+'3  2  0  /mfs.sh
+'4  1  23  /mfs.sh
 
 # Jumplist (newest first):
+-'  3  17  /mfs.sh
 -'  1  0  /mfs.sh
--'  3  21  /mfs.sh
+-'  3  69  /mss.sh
+-'  1  0  /mss.sh
 -'  2  0  /mfs.sh
 -'  4  0  /mfs.sh
+-'  3  69  /mss.sh
+-'  1  0  /mss.sh
 
 # History of marks within files (newest to oldest):
 
 > /mfs.sh
-	"	1	0
-	^	1	15
-	.	1	0
+	"	3	17
+	^	3	18
+	.	3	17
 	+	1	18
 	+	1	11
 	+	3	23
@@ -52,3 +57,10 @@
 	+	1	2
 	+	3	20
 	+	1	0
+	+	3	17
+
+> /mss.sh
+	"	3	69
+	^	3	70
+	.	3	69
+	+	3	69
