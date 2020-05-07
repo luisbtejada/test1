@@ -26,22 +26,23 @@
 	"
 
 # File marks:
-'0  16  8  /gitpull.sh
-'1  1  0  /.git/MERGE_MSG
-'2  1  0  /mfs.sh
-'3  13  10  /gitpull.sh
-'4  23  33  /tmp/crontab.CPXmHp/crontab
-'5  1  8  /gitpull.sh
-'6  23  0  /tmp/crontab.E6iPxa/crontab
-'7  11  11  /gitpull.sh
-'8  23  1  /tmp/crontab.6vXY54/crontab
-'9  1  0  /tmp/crontab.HaOJhk/crontab
+'0  4  24  /mfs.sh
+'1  16  8  /gitpull.sh
+'2  1  0  /.git/MERGE_MSG
+'3  1  0  /mfs.sh
+'4  13  10  /gitpull.sh
+'5  23  33  /tmp/crontab.CPXmHp/crontab
+'6  1  8  /gitpull.sh
+'7  23  0  /tmp/crontab.E6iPxa/crontab
+'8  11  11  /gitpull.sh
+'9  23  1  /tmp/crontab.6vXY54/crontab
 
 # Jumplist (newest first):
+-'  4  24  /mfs.sh
+-'  1  0  /mfs.sh
 -'  16  8  /gitpull.sh
 -'  1  0  /gitpull.sh
 -'  1  0  /.git/MERGE_MSG
--'  1  0  /mfs.sh
 -'  13  10  /gitpull.sh
 -'  23  33  /tmp/crontab.CPXmHp/crontab
 -'  1  0  /tmp/crontab.CPXmHp/crontab
@@ -61,7 +62,6 @@
 -'  3  37  /mss.sh
 -'  3  17  /mfs.sh
 -'  2  0  /mfs.sh
--'  4  0  /mfs.sh
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
 -'  1  0  /mss.sh
@@ -91,7 +91,6 @@
 -'  3  37  /mss.sh
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
--'  1  0  /mfs.sh
 -'  23  33  /tmp/crontab.CPXmHp/crontab
 -'  1  0  /tmp/crontab.CPXmHp/crontab
 -'  23  0  /tmp/crontab.E6iPxa/crontab
@@ -105,9 +104,6 @@
 -'  1  0  /etc/crontab
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
--'  3  17  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
 -'  1  0  /mss.sh
@@ -119,7 +115,6 @@
 -'  23  33  /tmp/crontab.CPXmHp/crontab
 -'  1  0  /tmp/crontab.CPXmHp/crontab
 -'  23  0  /tmp/crontab.E6iPxa/crontab
--'  1  0  /mfs.sh
 -'  23  33  /tmp/crontab.CPXmHp/crontab
 -'  1  0  /tmp/crontab.CPXmHp/crontab
 -'  23  0  /tmp/crontab.E6iPxa/crontab
@@ -130,8 +125,28 @@
 -'  23  22  /tmp/crontab.N17Nh9/crontab
 -'  1  0  /tmp/crontab.N17Nh9/crontab
 -'  1  0  /.git/MERGE_MSG
+-'  16  8  /gitpull.sh
+-'  1  0  /gitpull.sh
+-'  1  0  /.git/MERGE_MSG
+-'  13  10  /gitpull.sh
 
 # History of marks within files (newest to oldest):
+
+> /mfs.sh
+	"	4	24
+	^	4	25
+	.	4	24
+	+	1	18
+	+	1	11
+	+	3	23
+	+	1	12
+	+	1	16
+	+	1	12
+	+	1	2
+	+	3	20
+	+	1	0
+	+	3	17
+	+	4	24
 
 > /gitpull.sh
 	"	16	8
@@ -157,21 +172,6 @@
 
 > /.git/MERGE_MSG
 	"	1	0
-
-> /mfs.sh
-	"	1	0
-	^	3	18
-	.	3	17
-	+	1	18
-	+	1	11
-	+	3	23
-	+	1	12
-	+	1	16
-	+	1	12
-	+	1	2
-	+	3	20
-	+	1	0
-	+	3	17
 
 > /tmp/crontab.CPXmHp/crontab
 	"	23	33
