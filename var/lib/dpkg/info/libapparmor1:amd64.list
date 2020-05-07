@@ -4,6 +4,7 @@
 /lib/x86_64-linux-gnu/libapparmor.so.1.4.0
 /usr
 /usr/share
+/usr/share/doc
 /usr/share/doc/libapparmor1
 /usr/share/doc/libapparmor1/copyright
 /usr/share/doc/libapparmor1/changelog.Debian.gz

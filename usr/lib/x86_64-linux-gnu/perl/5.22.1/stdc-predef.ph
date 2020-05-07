@@ -18,7 +18,7 @@ unless(defined(&_STDC_PREDEF_H)) {
     } else {
 	eval 'sub __STDC_IEC_559_COMPLEX__ () {1;}' unless defined(&__STDC_IEC_559_COMPLEX__);
     }
-    eval 'sub __STDC_ISO_10646__ () {201103;}' unless defined(&__STDC_ISO_10646__);
+    eval 'sub __STDC_ISO_10646__ () {201505;}' unless defined(&__STDC_ISO_10646__);
     eval 'sub __STDC_NO_THREADS__ () {1;}' unless defined(&__STDC_NO_THREADS__);
 }
 1;

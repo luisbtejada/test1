@@ -15,7 +15,7 @@ e3f1e45ce70b290c4d988f2d9b197acb  usr/bin/dpkg-parsechangelog
 998277b360b8ec4891c5aeec8940b888  usr/bin/dpkg-source
 b7ac179759156c7aa80f9d1a325c6250  usr/bin/dpkg-vendor
 e9a2f8d2f9d88a60d360fea52a79580f  usr/share/doc/dpkg-dev/copyright
-baad63c853326c385ed561a7def9a025  usr/share/doc/dpkg-dev/frontend.txt
+843b0d3831a4b37587d2fef85a5f2e06  usr/share/doc/dpkg-dev/frontend.txt
 ca688ec81db70e38bf6f49e314afa543  usr/share/doc/dpkg-dev/triggers.txt.gz
 9d1527bc67fb2a98599dec8a884a18a8  usr/share/dpkg/architecture.mk
 41287459d1a829f4c7c015b5d97e0efd  usr/share/dpkg/buildflags.mk

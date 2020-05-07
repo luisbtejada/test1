@@ -51,3 +51,11 @@ update-alternatives 2020-05-07 10:36:07: run with --install /usr/bin/ex ex /usr/
 update-alternatives 2020-05-07 10:36:07: link group ex updated to point to /usr/bin/vim.basic
 update-alternatives 2020-05-07 10:36:07: run with --install /usr/bin/editor editor /usr/bin/vim.basic 30 --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz
 update-alternatives 2020-05-07 10:36:07: link group editor updated to point to /usr/bin/vim.basic
+update-alternatives 2020-05-07 11:16:39: run with --remove builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2020-05-07 11:16:39: link group builtins.7.gz fully removed
+update-alternatives 2020-05-07 11:16:39: run with --install /usr/share/man/man7/builtins.7.gz builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz 10
+update-alternatives 2020-05-07 11:16:39: link group builtins.7.gz updated to point to /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2020-05-07 11:16:50: run with --install /usr/sbin/rmt rmt /usr/sbin/rmt-tar 50 --slave /usr/share/man/man8/rmt.8.gz rmt.8.gz /usr/share/man/man8/rmt-tar.8.gz
+update-alternatives 2020-05-07 11:16:50: auto-repair link group rmt
+update-alternatives 2020-05-07 11:17:01: run with --install /usr/bin/rename rename /usr/bin/prename 60 --slave /usr/share/man/man1/rename.1.gz rename.1.gz /usr/share/man/man1/prename.1.gz
+update-alternatives 2020-05-07 11:17:01: auto-repair link group rename

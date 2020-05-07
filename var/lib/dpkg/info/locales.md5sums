@@ -4,7 +4,7 @@
 8c38b35e9f4844ab663da7375d39a73e  usr/share/bug/locales/presubj
 b0d9c1eacb7c19b4096f33c309d2de9b  usr/share/doc/locales/NEWS.Debian.gz
 b415ff89ec09853e5604ced91827d627  usr/share/doc/locales/README.Debian
-b6cb8619f10098659f509e7470288221  usr/share/doc/locales/changelog.Debian.gz
+8c7ada2c93b3b424f51b331e2526ac8f  usr/share/doc/locales/changelog.Debian.gz
 9ac90093ab798eeb6ce331880f901981  usr/share/doc/locales/copyright
 fce2a8aaeb4e126896cc9c546fb879a8  usr/share/i18n/SUPPORTED
 fab628282c088a86c73ac438b1524c7f  usr/share/i18n/charmaps/ANSI_X3.110-1983.gz
@@ -512,9 +512,9 @@ e6da7fd40d8c6960229a16c513de90c3  usr/share/i18n/locales/so_DJ
 5259e70f693120cdd2ea7823c5fe1023  usr/share/i18n/locales/so_SO
 9f330ff8c85ac578f968606a599ffc7f  usr/share/i18n/locales/sq_AL
 1823ac86580a425381ccf48970984ee6  usr/share/i18n/locales/sq_MK
-b9eca3647c8b93024cebabc81b503f1f  usr/share/i18n/locales/sr_ME
-8471045851e6ca08d701033c38efcbe3  usr/share/i18n/locales/sr_RS
-4a6e59f5869e2499184c65d683d9a8e2  usr/share/i18n/locales/sr_RS@latin
+5b3703d30f54d6ef785740591bf731f6  usr/share/i18n/locales/sr_ME
+cd509ea930d708c1a1ef31a322cb7d4d  usr/share/i18n/locales/sr_RS
+bc12f44870c3a39adff26e10a807ebda  usr/share/i18n/locales/sr_RS@latin
 13bd4966e6a55f7e4d827f1970e5bfe0  usr/share/i18n/locales/ss_ZA
 aa5884a804629e24b7e3cd228398ea87  usr/share/i18n/locales/st_ZA
 ac176d371f6722fb3975a8a181a2cf23  usr/share/i18n/locales/sv_FI

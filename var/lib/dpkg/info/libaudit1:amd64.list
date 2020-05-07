@@ -1,6 +1,7 @@
 /.
 /usr
 /usr/share
+/usr/share/doc
 /usr/share/doc/libaudit1
 /usr/share/doc/libaudit1/copyright
 /usr/share/doc/libaudit1/changelog.Debian.gz

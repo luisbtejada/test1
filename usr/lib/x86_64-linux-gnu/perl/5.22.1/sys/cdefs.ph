@@ -349,6 +349,12 @@ unless(defined(&_SYS_CDEFS_H)) {
 	    eval 'sub _Noreturn () {1;}' unless defined(&_Noreturn);
 	}
     }
+    if((!defined (&_Static_assert)  && !defined (&__cplusplus)  && (defined (&__STDC_VERSION__) ? (defined(&__STDC_VERSION__) ? &__STDC_VERSION__ : undef) : 0) < 201112 && (! &__GNUC_PREREQ (4, 6) || defined (&__STRICT_ANSI__)))) {
+	eval 'sub _Static_assert {
+	    my($expr, $diagnostic) = @_;
+    	    eval q( &extern  &int (* &__Static_assert_function ( &void)) [!!$sizeof{\'struct struct\' { \'int\'  &__error_if_negative: ($expr) ? 2: -1; }}]);
+	}' unless defined(&_Static_assert);
+    }
     require 'bits/wordsize.ph';
     if(defined (&__LONG_DOUBLE_MATH_OPTIONAL)  && defined (&__NO_LONG_DOUBLE_MATH)) {
 	eval 'sub __LDBL_COMPAT () {1;}' unless defined(&__LDBL_COMPAT);

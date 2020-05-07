@@ -1,11 +1,11 @@
 3d26ab9842ad58d4c03a769715a274df  usr/sbin/pam-auth-update
-cb2de21870706b3b402637a6b8b1f17a  usr/sbin/pam_getenv
+dd83d7dd79dadc9a415e0ebb2159c0b6  usr/sbin/pam_getenv
 6c05e902bc75c9e6d2da3ac75da5d47b  usr/share/doc/libpam-runtime/copyright
 8d5fd94005de12b6696a6c3308f06371  usr/share/lintian/overrides/libpam-runtime
 9f9ad4acdc7751e71db3e82e3b1dbd98  usr/share/man/man5/pam.conf.5.gz
 2ea514e0045a3af7602643267dd07b07  usr/share/man/man7/PAM.7.gz
 0628c7175a328913cf8ea4024cc53fc9  usr/share/man/man8/pam-auth-update.8.gz
-09b11e81c6454be5f3051a8eedd449f3  usr/share/man/man8/pam_getenv.8.gz
+4bd9737b9028a074c8f44ae7a1e0b684  usr/share/man/man8/pam_getenv.8.gz
 f6d15d69c43d7d363c02d219d8323fbb  usr/share/pam-configs/unix
 117df385af6d411fbd1ffa97bc048f66  usr/share/pam/common-account
 a16cd434ecf1fd38ade67f3ce31ecdc6  usr/share/pam/common-account.md5sums

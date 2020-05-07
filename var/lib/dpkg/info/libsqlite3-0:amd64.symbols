@@ -179,6 +179,17 @@ libsqlite3.so.0 libsqlite3-0 #MINVER#
  sqlite3_stmt_busy@Base 3.7.10
  sqlite3_stmt_readonly@Base 3.7.4
  sqlite3_stmt_status@Base 3.6.4
+ sqlite3_str_append@Base 3.11.0-1ubuntu1.4
+ sqlite3_str_appendall@Base 3.11.0-1ubuntu1.4
+ sqlite3_str_appendchar@Base 3.11.0-1ubuntu1.4
+ sqlite3_str_appendf@Base 3.11.0-1ubuntu1.4
+ sqlite3_str_errcode@Base 3.11.0-1ubuntu1.4
+ sqlite3_str_finish@Base 3.11.0-1ubuntu1.4
+ sqlite3_str_length@Base 3.11.0-1ubuntu1.4
+ sqlite3_str_new@Base 3.11.0-1ubuntu1.4
+ sqlite3_str_reset@Base 3.11.0-1ubuntu1.4
+ sqlite3_str_value@Base 3.11.0-1ubuntu1.4
+ sqlite3_str_vappendf@Base 3.11.0-1ubuntu1.4
  sqlite3_strglob@Base 3.7.17
  sqlite3_stricmp@Base 3.7.11
  sqlite3_strlike@Base 3.10.0

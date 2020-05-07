@@ -1,2 +1,2 @@
-TARGETS = dbus rsync
+TARGETS = dbus rsync cron
 INTERACTIVE =

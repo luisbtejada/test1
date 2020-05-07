@@ -57,9 +57,7 @@ unless(defined(&_SIGNAL_H)) {
 	}
 	if(defined(&__USE_MISC)) {
 	}
-	if(defined(&__USE_XOPEN2K)) {
-	}
-	if(defined(&__USE_XOPEN2K)) {
+	if(defined(&__USE_XOPEN2K8)) {
 	}
 	if(defined(&__USE_XOPEN)) {
 	    if(defined(&__GNUC__)) {

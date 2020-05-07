@@ -1,4 +1,7 @@
 libseccomp.so.2 libseccomp2 #MINVER#
+* Build-Depends-Package: libseccomp-dev
+ seccomp_api_get@Base 2.4.0
+ seccomp_api_set@Base 2.4.0
  seccomp_arch_add@Base 1.0.1
  seccomp_arch_exist@Base 1.0.1
  seccomp_arch_native@Base 2.1.0
@@ -22,3 +25,4 @@ libseccomp.so.2 libseccomp2 #MINVER#
  seccomp_syscall_resolve_name_arch@Base 2.1.0
  seccomp_syscall_resolve_name_rewrite@Base 2.2.1
  seccomp_syscall_resolve_num_arch@Base 2.1.0
+ seccomp_version@Base 2.3.0

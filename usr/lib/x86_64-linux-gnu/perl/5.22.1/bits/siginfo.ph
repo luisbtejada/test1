@@ -34,6 +34,8 @@ if((!defined (&__have_siginfo_t)  && (defined (&_SIGNAL_H) || defined (&__need_s
     eval 'sub si_ptr () { ($_sifields->{_rt}->{si_sigval}->{sival_ptr});}' unless defined(&si_ptr);
     eval 'sub si_addr () { ($_sifields->{_sigfault}->{si_addr});}' unless defined(&si_addr);
     eval 'sub si_addr_lsb () { ($_sifields->{_sigfault}->{si_addr_lsb});}' unless defined(&si_addr_lsb);
+    eval 'sub si_lower () { ($_sifields->{_sigfault}->{si_addr_bnd}->{_lower});}' unless defined(&si_lower);
+    eval 'sub si_upper () { ($_sifields->{_sigfault}->{si_addr_bnd}->{_upper});}' unless defined(&si_upper);
     eval 'sub si_band () { ($_sifields->{_sigpoll}->{si_band});}' unless defined(&si_band);
     eval 'sub si_fd () { ($_sifields->{_sigpoll}->{si_fd});}' unless defined(&si_fd);
     eval 'sub si_call_addr () { ($_sifields->{_sigsys}->{_call_addr});}' unless defined(&si_call_addr);

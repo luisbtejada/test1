@@ -9,7 +9,7 @@
 
 /* Package name      : perl5
  * Source directory  : .
- * Configuration time: Sun Mar 13 11:54:18 UTC 2016
+ * Configuration time: Mon Nov 19 18:29:35 UTC 2018
  * Configured by     : Debian Project
  * Target system     : linux localhost 3.16.0 #1 smp debian 3.16.0 x86_64 gnulinux 
  */
@@ -5164,5 +5164,5 @@
 /*#define	USE_SOCKS		/ **/
 #endif
 
-#define PERL_BUILD_DATE "Mar 13 2016 11:54:18"
+#define PERL_BUILD_DATE "Nov 19 2018 18:29:35"
 #endif

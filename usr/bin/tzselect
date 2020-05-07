@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PKGVERSION="(Ubuntu GLIBC 2.23-0ubuntu3) "
+PKGVERSION="(Ubuntu GLIBC 2.23-0ubuntu11) "
 TZVERSION="2.23"
 REPORT_BUGS_TO="<https://bugs.launchpad.net/ubuntu/+source/glibc/+bugs>"
 

@@ -202,13 +202,13 @@ unless (defined &__GCC_IEC_559) { sub __GCC_IEC_559() { 2 } }
 
 unless (defined &__GCC_IEC_559_COMPLEX) { sub __GCC_IEC_559_COMPLEX() { 2 } }
 
-unless (defined &__GLIBC_MINOR__) { sub __GLIBC_MINOR__() { 21 } }
+unless (defined &__GLIBC_MINOR__) { sub __GLIBC_MINOR__() { 23 } }
 
 unless (defined &__GLIBC__) { sub __GLIBC__() { 2 } }
 
-unless (defined &__GNUC_MINOR__) { sub __GNUC_MINOR__() { 3 } }
+unless (defined &__GNUC_MINOR__) { sub __GNUC_MINOR__() { 4 } }
 
-unless (defined &__GNUC_PATCHLEVEL__) { sub __GNUC_PATCHLEVEL__() { 1 } }
+unless (defined &__GNUC_PATCHLEVEL__) { sub __GNUC_PATCHLEVEL__() { 0 } }
 
 unless (defined &__GNUC_STDC_INLINE__) { sub __GNUC_STDC_INLINE__() { 1 } }
 
@@ -392,7 +392,7 @@ unless (defined &__STDC_IEC_559_COMPLEX__) { sub __STDC_IEC_559_COMPLEX__() { 1 
 
 unless (defined &__STDC_IEC_559__) { sub __STDC_IEC_559__() { 1 } }
 
-unless (defined &__STDC_ISO_10646__) { sub __STDC_ISO_10646__() { 201103 } }
+unless (defined &__STDC_ISO_10646__) { sub __STDC_ISO_10646__() { 201505 } }
 
 unless (defined &__STDC_NO_THREADS__) { sub __STDC_NO_THREADS__() { 1 } }
 
@@ -496,7 +496,7 @@ unless (defined &__USE_XOPEN) { sub __USE_XOPEN() { 1 } }
 
 unless (defined &__USE_XOPEN_EXTENDED) { sub __USE_XOPEN_EXTENDED() { 1 } }
 
-unless (defined &__VERSION__) { sub __VERSION__() { "\"5\.3\.1\\\ 20160311\"" } }
+unless (defined &__VERSION__) { sub __VERSION__() { "\"5\.4\.0\\\ 20160609\"" } }
 
 unless (defined &__WCHAR_MAX__) { sub __WCHAR_MAX__() { 0x7fffffff } }
 

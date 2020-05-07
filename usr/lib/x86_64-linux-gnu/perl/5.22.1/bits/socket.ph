@@ -44,6 +44,8 @@ unless(defined(&__BITS_SOCKET_H)) {
     eval 'sub PF_PPPOX () {24;}' unless defined(&PF_PPPOX);
     eval 'sub PF_WANPIPE () {25;}' unless defined(&PF_WANPIPE);
     eval 'sub PF_LLC () {26;}' unless defined(&PF_LLC);
+    eval 'sub PF_IB () {27;}' unless defined(&PF_IB);
+    eval 'sub PF_MPLS () {28;}' unless defined(&PF_MPLS);
     eval 'sub PF_CAN () {29;}' unless defined(&PF_CAN);
     eval 'sub PF_TIPC () {30;}' unless defined(&PF_TIPC);
     eval 'sub PF_BLUETOOTH () {31;}' unless defined(&PF_BLUETOOTH);
@@ -87,6 +89,8 @@ unless(defined(&__BITS_SOCKET_H)) {
     eval 'sub AF_PPPOX () { &PF_PPPOX;}' unless defined(&AF_PPPOX);
     eval 'sub AF_WANPIPE () { &PF_WANPIPE;}' unless defined(&AF_WANPIPE);
     eval 'sub AF_LLC () { &PF_LLC;}' unless defined(&AF_LLC);
+    eval 'sub AF_IB () { &PF_IB;}' unless defined(&AF_IB);
+    eval 'sub AF_MPLS () { &PF_MPLS;}' unless defined(&AF_MPLS);
     eval 'sub AF_CAN () { &PF_CAN;}' unless defined(&AF_CAN);
     eval 'sub AF_TIPC () { &PF_TIPC;}' unless defined(&AF_TIPC);
     eval 'sub AF_BLUETOOTH () { &PF_BLUETOOTH;}' unless defined(&AF_BLUETOOTH);
@@ -110,8 +114,7 @@ unless(defined(&__BITS_SOCKET_H)) {
     eval 'sub SOMAXCONN () {128;}' unless defined(&SOMAXCONN);
     require 'bits/sockaddr.ph';
     eval 'sub __ss_aligntype () {\'unsigned long int\';}' unless defined(&__ss_aligntype);
-    eval 'sub _SS_SIZE () {128;}' unless defined(&_SS_SIZE);
-    eval 'sub _SS_PADSIZE () {( &_SS_SIZE - (2* $sizeof{ &__ss_aligntype}));}' unless defined(&_SS_PADSIZE);
+    eval 'sub _SS_PADSIZE () {( &_SS_SIZE -  &__SOCKADDR_COMMON_SIZE - $sizeof{ &__ss_aligntype});}' unless defined(&_SS_PADSIZE);
     eval("sub MSG_OOB () { 0x01; }") unless defined(&MSG_OOB);
     eval("sub MSG_PEEK () { 0x02; }") unless defined(&MSG_PEEK);
     eval("sub MSG_DONTROUTE () { 0x04; }") unless defined(&MSG_DONTROUTE);

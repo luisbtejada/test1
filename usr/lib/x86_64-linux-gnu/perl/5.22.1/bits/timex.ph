@@ -12,6 +12,7 @@ unless(defined(&_BITS_TIMEX_H)) {
     eval 'sub ADJ_STATUS () {0x10;}' unless defined(&ADJ_STATUS);
     eval 'sub ADJ_TIMECONST () {0x20;}' unless defined(&ADJ_TIMECONST);
     eval 'sub ADJ_TAI () {0x80;}' unless defined(&ADJ_TAI);
+    eval 'sub ADJ_SETOFFSET () {0x100;}' unless defined(&ADJ_SETOFFSET);
     eval 'sub ADJ_MICRO () {0x1000;}' unless defined(&ADJ_MICRO);
     eval 'sub ADJ_NANO () {0x2000;}' unless defined(&ADJ_NANO);
     eval 'sub ADJ_TICK () {0x4000;}' unless defined(&ADJ_TICK);

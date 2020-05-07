@@ -93,7 +93,7 @@ unless(defined(&_FEATURES_H)) {
 	undef(&_POSIX_C_SOURCE) if defined(&_POSIX_C_SOURCE);
 	eval 'sub _POSIX_C_SOURCE () {200809;}' unless defined(&_POSIX_C_SOURCE);
     }
-    if(((!defined (&__STRICT_ANSI__) || ((defined(&_XOPEN_SOURCE) ? &_XOPEN_SOURCE : undef) - 0) >= 500)  && !defined (&_POSIX_SOURCE)  && !defined (&_POSIX_C_SOURCE))) {
+    if(((!defined (&__STRICT_ANSI__) || (defined (&_XOPEN_SOURCE)  && ((defined(&_XOPEN_SOURCE) ? &_XOPEN_SOURCE : undef) - 0) >= 500))  && !defined (&_POSIX_SOURCE)  && !defined (&_POSIX_C_SOURCE))) {
 	eval 'sub _POSIX_SOURCE () {1;}' unless defined(&_POSIX_SOURCE);
 	if(defined (&_XOPEN_SOURCE)  && ((defined(&_XOPEN_SOURCE) ? &_XOPEN_SOURCE : undef) - 0) < 500) {
 	    eval 'sub _POSIX_C_SOURCE () {2;}' unless defined(&_POSIX_C_SOURCE);
@@ -108,26 +108,26 @@ unless(defined(&_FEATURES_H)) {
 	}
 	eval 'sub __USE_POSIX_IMPLICITLY () {1;}' unless defined(&__USE_POSIX_IMPLICITLY);
     }
-    if(defined (&_POSIX_SOURCE) || (defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) >= 1|| defined (&_XOPEN_SOURCE)) {
+    if((defined (&_POSIX_SOURCE) || (defined (&_POSIX_C_SOURCE)  && (defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) >= 1) || defined (&_XOPEN_SOURCE))) {
 	eval 'sub __USE_POSIX () {1;}' unless defined(&__USE_POSIX);
     }
     if(defined (&_POSIX_C_SOURCE)  && (defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) >= 2|| defined (&_XOPEN_SOURCE)) {
 	eval 'sub __USE_POSIX2 () {1;}' unless defined(&__USE_POSIX2);
     }
-    if(((defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) - 0) >= 199309) {
+    if(defined (&_POSIX_C_SOURCE)  && ((defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) - 0) >= 199309) {
 	eval 'sub __USE_POSIX199309 () {1;}' unless defined(&__USE_POSIX199309);
     }
-    if(((defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) - 0) >= 199506) {
+    if(defined (&_POSIX_C_SOURCE)  && ((defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) - 0) >= 199506) {
 	eval 'sub __USE_POSIX199506 () {1;}' unless defined(&__USE_POSIX199506);
     }
-    if(((defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) - 0) >= 200112) {
+    if(defined (&_POSIX_C_SOURCE)  && ((defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) - 0) >= 200112) {
 	eval 'sub __USE_XOPEN2K () {1;}' unless defined(&__USE_XOPEN2K);
 	undef(&__USE_ISOC95) if defined(&__USE_ISOC95);
 	eval 'sub __USE_ISOC95 () {1;}' unless defined(&__USE_ISOC95);
 	undef(&__USE_ISOC99) if defined(&__USE_ISOC99);
 	eval 'sub __USE_ISOC99 () {1;}' unless defined(&__USE_ISOC99);
     }
-    if(((defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) - 0) >= 200809) {
+    if(defined (&_POSIX_C_SOURCE)  && ((defined(&_POSIX_C_SOURCE) ? &_POSIX_C_SOURCE : undef) - 0) >= 200809) {
 	eval 'sub __USE_XOPEN2K8 () {1;}' unless defined(&__USE_XOPEN2K8);
 	undef(&_ATFILE_SOURCE) if defined(&_ATFILE_SOURCE);
 	eval 'sub _ATFILE_SOURCE () {1;}' unless defined(&_ATFILE_SOURCE);
@@ -191,7 +191,7 @@ unless(defined(&_FEATURES_H)) {
     undef(&__GNU_LIBRARY__) if defined(&__GNU_LIBRARY__);
     eval 'sub __GNU_LIBRARY__ () {6;}' unless defined(&__GNU_LIBRARY__);
     eval 'sub __GLIBC__ () {2;}' unless defined(&__GLIBC__);
-    eval 'sub __GLIBC_MINOR__ () {21;}' unless defined(&__GLIBC_MINOR__);
+    eval 'sub __GLIBC_MINOR__ () {23;}' unless defined(&__GLIBC_MINOR__);
     eval 'sub __GLIBC_PREREQ {
         my($maj, $min) = @_;
 	    eval q((( &__GLIBC__ << 16) +  &__GLIBC_MINOR__ >= (($maj) << 16) + ($min)));

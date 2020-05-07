@@ -8,6 +8,13 @@ then
     exit 0
 fi
 
+# don't stomp on LXC users
+if grep -q container=lxc /proc/1/environ
+then
+    echo "LXC container detected, aborting due to LXC managed /dev."
+    exit 0
+fi
+
 cd /dev
 
 # don't stomp on devfs users

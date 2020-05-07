@@ -5,7 +5,7 @@ no warnings qw(redefine misc);
 if(defined(&_LIBC)) {
     die("Applications\ may\ not\ define\ the\ macro\ _LIBC");
 }
-eval 'sub __stub_bdflush () {1;}' unless defined(&__stub_bdflush);
+eval 'sub __stub___compat_bdflush () {1;}' unless defined(&__stub___compat_bdflush);
 eval 'sub __stub_chflags () {1;}' unless defined(&__stub_chflags);
 eval 'sub __stub_fattach () {1;}' unless defined(&__stub_fattach);
 eval 'sub __stub_fchflags () {1;}' unless defined(&__stub_fchflags);

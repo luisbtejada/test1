@@ -21,6 +21,10 @@ sub init {
 	$this->readline(Term::ReadLine->new('debconf'));
 	$this->readline->ornaments(1);
 
+	if (-p STDOUT && -p STDERR) { # make readline play nice with buffered stdout
+		$this->readline->newTTY(*STDIN, *STDOUT);
+	}
+
 	if (Term::ReadLine->ReadLine =~ /::Gnu$/) {
 		if (exists $ENV{TERM} && $ENV{TERM} =~ /emacs/i) {
 			die gettext("Term::ReadLine::GNU is incompatable with emacs shell buffers.")."\n";

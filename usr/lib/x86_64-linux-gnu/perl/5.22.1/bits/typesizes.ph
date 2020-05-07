@@ -50,6 +50,7 @@ unless(defined(&_BITS_TYPESIZES_H)) {
     eval 'sub __BLKSIZE_T_TYPE () { &__SYSCALL_SLONG_TYPE;}' unless defined(&__BLKSIZE_T_TYPE);
     eval 'sub __FSID_T_TYPE () {1; };}' unless defined(&__FSID_T_TYPE);
     eval 'sub __SSIZE_T_TYPE () { &__SWORD_TYPE;}' unless defined(&__SSIZE_T_TYPE);
+    eval 'sub __CPU_MASK_TYPE () { &__SYSCALL_ULONG_TYPE;}' unless defined(&__CPU_MASK_TYPE);
     if(defined(&__x86_64__)) {
 	eval 'sub __OFF_T_MATCHES_OFF64_T () {1;}' unless defined(&__OFF_T_MATCHES_OFF64_T);
 	eval 'sub __INO_T_MATCHES_INO64_T () {1;}' unless defined(&__INO_T_MATCHES_INO64_T);
