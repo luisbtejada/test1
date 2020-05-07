@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc/libluajit-5.1-2
+/usr/share/doc/libluajit-5.1-2/copyright
+/usr/share/doc/libluajit-5.1-2/changelog.Debian.gz
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libluajit-5.1.so.2.0.4
+/usr/lib/x86_64-linux-gnu/libluajit-5.1.so.2

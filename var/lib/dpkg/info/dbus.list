@@ -1,0 +1,10 @@
+/etc
+/etc/init.d
+/etc/init.d/dbus
+/etc/init
+/etc/init/dbus.conf
+/etc/default
+/etc/default/dbus
+/var
+/var/lib
+/var/lib/dbus

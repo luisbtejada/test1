@@ -1,0 +1,8 @@
+Name: libssl1.0.0/restart-failed
+Template: libssl1.0.0/restart-failed
+Owners: libssl1.0.0:amd64
+
+Name: libssl1.0.0/restart-services
+Template: libssl1.0.0/restart-services
+Owners: libssl1.0.0:amd64
+

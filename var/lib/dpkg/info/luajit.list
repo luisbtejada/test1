@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/doc/luajit
+/usr/share/doc/luajit/copyright
+/usr/share/doc/luajit/changelog.Debian.gz
+/usr/share/man/man1/luajit.1.gz
+/usr/bin
+/usr/bin/luajit-2.0.4
+/usr/bin/luajit
