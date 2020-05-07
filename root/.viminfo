@@ -26,18 +26,19 @@
 	"
 
 # File marks:
-'0  1  0  /gitpull.sh
-'1  1  0  /gitpull.
-'2  1  0  /gitpull.log
-'3  1  0  /test.log
-'4  23  52  /tmp/crontab.nM2Mp1/crontab
-'5  23  0  /tmp/crontab.PLPXNk/crontab
-'6  1  0  /mfs.sh
-'7  4  24  /mfs.sh
-'8  16  8  /gitpull.sh
-'9  1  0  /.git/MERGE_MSG
+'0  1  0  /dev/termination.log
+'1  1  0  /gitpull.sh
+'2  1  0  /gitpull.
+'3  1  0  /gitpull.log
+'4  1  0  /test.log
+'5  23  52  /tmp/crontab.nM2Mp1/crontab
+'6  23  0  /tmp/crontab.PLPXNk/crontab
+'7  1  0  /mfs.sh
+'8  4  24  /mfs.sh
+'9  16  8  /gitpull.sh
 
 # Jumplist (newest first):
+-'  1  0  /dev/termination.log
 -'  1  0  /gitpull.sh
 -'  1  0  /gitpull.
 -'  1  0  /gitpull.log
@@ -133,8 +134,13 @@
 -'  1  0  /tmp/crontab.N17Nh9/crontab
 -'  1  0  /.git/MERGE_MSG
 -'  1  0  /.git/MERGE_MSG
+-'  1  0  /gitpull.sh
+-'  1  0  /gitpull.
 
 # History of marks within files (newest to oldest):
+
+> /dev/termination.log
+	"	1	0
 
 > /gitpull.sh
 	"	1	0
