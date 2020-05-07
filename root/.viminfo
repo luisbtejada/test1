@@ -26,18 +26,19 @@
 	"
 
 # File marks:
-'0  13  10  /gitpull.sh
-'1  23  33  /tmp/crontab.CPXmHp/crontab
-'2  1  8  /gitpull.sh
-'3  23  0  /tmp/crontab.E6iPxa/crontab
-'4  11  11  /gitpull.sh
-'5  23  1  /tmp/crontab.6vXY54/crontab
-'6  1  0  /tmp/crontab.HaOJhk/crontab
-'7  23  22  /tmp/crontab.N17Nh9/crontab
-'8  4  0  /gitpull.sh
-'9  16  70  /gitpull.sh
+'0  1  0  /mfs.sh
+'1  13  10  /gitpull.sh
+'2  23  33  /tmp/crontab.CPXmHp/crontab
+'3  1  8  /gitpull.sh
+'4  23  0  /tmp/crontab.E6iPxa/crontab
+'5  11  11  /gitpull.sh
+'6  23  1  /tmp/crontab.6vXY54/crontab
+'7  1  0  /tmp/crontab.HaOJhk/crontab
+'8  23  22  /tmp/crontab.N17Nh9/crontab
+'9  4  0  /gitpull.sh
 
 # Jumplist (newest first):
+-'  1  0  /mfs.sh
 -'  13  10  /gitpull.sh
 -'  1  0  /gitpull.sh
 -'  23  33  /tmp/crontab.CPXmHp/crontab
@@ -59,84 +60,33 @@
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
 -'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
 -'  2  0  /mfs.sh
 -'  4  0  /mfs.sh
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
--'  3  17  /mfs.sh
--'  1  0  /mfs.sh
--'  2  0  /mfs.sh
--'  4  0  /mfs.sh
--'  3  17  /mfs.sh
 
 # History of marks within files (newest to oldest):
+
+> /mfs.sh
+	"	1	0
+	^	3	18
+	.	3	17
+	+	1	18
+	+	1	11
+	+	3	23
+	+	1	12
+	+	1	16
+	+	1	12
+	+	1	2
+	+	3	20
+	+	1	0
+	+	3	17
 
 > /gitpull.sh
 	"	13	10
@@ -193,18 +143,3 @@
 	^	3	38
 	.	3	37
 	+	3	37
-
-> /mfs.sh
-	"	3	17
-	^	3	18
-	.	3	17
-	+	1	18
-	+	1	11
-	+	3	23
-	+	1	12
-	+	1	16
-	+	1	12
-	+	1	2
-	+	3	20
-	+	1	0
-	+	3	17
