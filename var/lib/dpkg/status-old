@@ -682,6 +682,32 @@ Description: Miscellaneous utilities specific to Debian
  tempfile which
 Original-Maintainer: Clint Adams <clint@debian.org>
 
+Package: mime-support
+Status: install ok installed
+Priority: standard
+Section: net
+Installed-Size: 111
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Multi-Arch: foreign
+Version: 3.59ubuntu1
+Recommends: file
+Conffiles:
+ /etc/mime.types aa13939777d1a7b82e873d5eb0282a1a
+ /etc/mailcap.order ba07e08a7fe3741d0b8339127963190e
+Description: MIME files 'mime.types' & 'mailcap', and support programs
+ As these files can be used by all MIME compliant programs, they
+ have been moved into their own package that others can depend upon.
+ .
+ Other packages add themselves as viewers/editors/composers/etc by
+ using the provided "update-mime" program.
+ .
+ In addition, the commands "see", "edit", "compose", and "print"
+ will display, alter, create, and print (respectively) any file using
+ a program determined from the entries in the mime.types and mailcap
+ files.
+Original-Maintainer: Mime-Support Maintainers <mime-support@plessy.org>
+
 Package: libwind0-heimdal
 Status: install ok installed
 Priority: optional
@@ -840,6 +866,26 @@ Description: Universally Unique ID library
  See RFC 4122 for more information.
 Original-Maintainer: Debian util-linux Maintainers <ah-util-linux@debian.org>
 
+Package: libgpm2
+Status: install ok installed
+Priority: standard
+Section: libs
+Installed-Size: 83
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Multi-Arch: same
+Source: gpm
+Version: 1.20.4-6.1
+Depends: libc6 (>= 2.15)
+Pre-Depends: multiarch-support
+Suggests: gpm
+Description: General Purpose Mouse - shared library
+ This package provides a library that handles mouse requests
+ and delivers them to applications. See the description for the 'gpm'
+ package for more information.
+Original-Maintainer: Peter Samuelson <peter@p12n.org>
+Homepage: http://www.nico.schottelius.org/software/gpm/
+
 Package: libdb5.3
 Status: install ok installed
 Priority: required
@@ -856,6 +902,31 @@ Description: Berkeley v5.3 Database Libraries [runtime]
  database library.
 Original-Maintainer: Debian Berkeley DB Group <pkg-db-devel@lists.alioth.debian.org>
 Homepage: http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html
+
+Package: vim
+Status: install ok installed
+Priority: optional
+Section: editors
+Installed-Size: 2400
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Version: 2:7.4.1689-3ubuntu1.4
+Provides: editor
+Depends: vim-common (= 2:7.4.1689-3ubuntu1.4), vim-runtime (= 2:7.4.1689-3ubuntu1.4), libacl1 (>= 2.2.51-8), libc6 (>= 2.15), libgpm2 (>= 1.20.4), libpython3.5 (>= 3.5.0~b1), libselinux1 (>= 1.32), libtinfo5 (>= 6)
+Suggests: ctags, vim-doc, vim-scripts
+Description: Vi IMproved - enhanced vi editor
+ Vim is an almost compatible version of the UNIX editor Vi.
+ .
+ Many new features have been added: multi level undo, syntax
+ highlighting, command line history, on-line help, filename
+ completion, block operations, folding, Unicode support, etc.
+ .
+ This package contains a version of vim compiled with a rather
+ standard set of features.  This package does not provide a GUI
+ version of Vim.  See the other vim-* packages if you need more
+ (or less).
+Homepage: http://www.vim.org/
+Original-Maintainer: Debian Vim Maintainers <pkg-vim-maintainers@lists.alioth.debian.org>
 
 Package: debconf
 Status: install ok installed
@@ -929,6 +1000,26 @@ Description: easy-to-use client-side URL transfer library (GnuTLS flavour)
  SSL support is provided by GnuTLS.
 Homepage: http://curl.haxx.se
 Original-Maintainer: Alessandro Ghedini <ghedo@debian.org>
+
+Package: libpython3.5
+Status: install ok installed
+Priority: optional
+Section: libs
+Installed-Size: 4515
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Multi-Arch: same
+Source: python3.5
+Version: 3.5.2-2ubuntu0~16.04.10
+Depends: libpython3.5-stdlib (= 3.5.2-2ubuntu0~16.04.10), libc6 (>= 2.17), libexpat1 (>= 2.1~beta3), zlib1g (>= 1:1.2.0)
+Description: Shared Python runtime library (version 3.5)
+ Python is a high-level, interactive, object-oriented language. Its 3.5 version
+ includes an extensive class library with lots of goodies for
+ network programming, system administration, sounds and graphics.
+ .
+ This package contains the shared runtime library, normally not needed
+ for programs using the statically linked interpreter.
+Original-Maintainer: Matthias Klose <doko@debian.org>
 
 Package: hostname
 Essential: yes
@@ -1053,6 +1144,27 @@ Description: GNU privacy guard - signature verification tool
  make the signature are trustworthy.
 Homepage: https://www.gnupg.org
 Original-Maintainer: Debian GnuPG-Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>
+
+Package: libpython3.5-stdlib
+Status: install ok installed
+Priority: optional
+Section: python
+Installed-Size: 9858
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Multi-Arch: same
+Source: python3.5
+Version: 3.5.2-2ubuntu0~16.04.10
+Depends: libpython3.5-minimal (= 3.5.2-2ubuntu0~16.04.10), mime-support, libbz2-1.0, libc6 (>= 2.15), libdb5.3, liblzma5 (>= 5.1.1alpha+20120614), libmpdec2, libncursesw5 (>= 6), libreadline6 (>= 6.0), libsqlite3-0 (>= 3.5.9), libtinfo5 (>= 6)
+Breaks: libmpdec2 (<< 2.4.2)
+Description: Interactive high-level object-oriented language (standard library, version 3.5)
+ Python is a high-level, interactive, object-oriented language. Its 3.5 version
+ includes an extensive class library with lots of goodies for
+ network programming, system administration, sounds and graphics.
+ .
+ This package contains Python 3.5's standard library. It is normally not
+ used on its own, but as a dependency of python3.5.
+Original-Maintainer: Matthias Klose <doko@debian.org>
 
 Package: libcap2
 Status: install ok installed
@@ -1563,6 +1675,24 @@ Description: GNU core utilities
 Homepage: http://gnu.org/software/coreutils
 Original-Maintainer: Michael Stone <mstone@debian.org>
 
+Package: file
+Status: install ok installed
+Priority: standard
+Section: utils
+Installed-Size: 76
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Multi-Arch: foreign
+Version: 1:5.25-2ubuntu1.3
+Depends: libc6 (>= 2.4), libmagic1 (= 1:5.25-2ubuntu1.3)
+Description: Determines file type using "magic" numbers
+ File tests each argument in an attempt to classify it. There are
+ three sets of tests, performed in this order: filesystem tests,
+ magic number tests, and language tests. The first test that
+ succeeds causes the file type to be printed.
+Homepage: http://www.darwinsys.com/file/
+Original-Maintainer: Christoph Biedl <debian.axhn@manchmal.in-ulm.de>
+
 Package: libbsd0
 Status: install ok installed
 Priority: optional
@@ -1774,6 +1904,28 @@ Description: high-quality block-sorting file compressor - utilities
  predecessor, bzip (.bz).
 Original-Maintainer: Anibal Monsalve Salazar <anibal@debian.org>
 Homepage: http://www.bzip.org/
+
+Package: libmagic1
+Status: install ok installed
+Priority: standard
+Section: libs
+Installed-Size: 3983
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Multi-Arch: same
+Source: file
+Version: 1:5.25-2ubuntu1.3
+Depends: libc6 (>= 2.15), zlib1g (>= 1:1.1.4)
+Suggests: file
+Conffiles:
+ /etc/magic 272913026300e7ae9b5e2d51f138e674
+ /etc/magic.mime 272913026300e7ae9b5e2d51f138e674
+Description: File type determination library using "magic" numbers
+ This library can be used to classify files according to magic
+ number tests. It implements the core functionality of the file
+ command.
+Homepage: http://www.darwinsys.com/file/
+Original-Maintainer: Christoph Biedl <debian.axhn@manchmal.in-ulm.de>
 
 Package: lsb-base
 Status: install ok installed
@@ -2606,6 +2758,31 @@ Description: Secure Sockets Layer toolkit - cryptographic utility
   * handling S/MIME signed or encrypted mail.
 Original-Maintainer: Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>
 
+Package: vim-common
+Status: install ok installed
+Priority: important
+Section: editors
+Installed-Size: 366
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Source: vim
+Version: 2:7.4.1689-3ubuntu1.4
+Replaces: vim-gui-common (<< 2:7.4.488-4~)
+Depends: libc6 (>= 2.3.4)
+Recommends: vim | vim-gnome | vim-gtk | vim-gtk3 | vim-athena | vim-nox | vim-tiny
+Suggests: vim-gnome-py2 | vim-gtk-py2 | vim-gtk3-py2 | vim-athena-py2 | vim-nox-py2
+Breaks: vim-gui-common (<< 2:7.4.488-4~)
+Conffiles:
+ /etc/vim/vimrc b458e7b28b9bc2d04bd5a3fd0f8d777e
+Description: Vi IMproved - Common files
+ Vim is an almost compatible version of the UNIX editor Vi.
+ .
+ This package contains files shared by all non GUI-enabled vim variants
+ available in Debian.  Examples of such shared files are: manpages,
+ common executables like xxd, and configuration files.
+Homepage: http://www.vim.org/
+Original-Maintainer: Debian Vim Maintainers <pkg-vim-maintainers@lists.alioth.debian.org>
+
 Package: libsqlite3-0
 Status: install ok installed
 Priority: standard
@@ -2708,6 +2885,31 @@ Description: File comparison utilities
  update, or "patch", a copy of the file.
 Original-Maintainer: Santiago Vila <sanvila@debian.org>
 Homepage: http://www.gnu.org/software/diffutils/
+
+Package: vim-runtime
+Status: install ok installed
+Priority: optional
+Section: editors
+Installed-Size: 26870
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: all
+Multi-Arch: foreign
+Source: vim
+Version: 2:7.4.1689-3ubuntu1.4
+Recommends: vim | vim-gnome | vim-gtk | vim-gtk3 | vim-athena | vim-nox | vim-tiny
+Suggests: vim-gnome-py2 | vim-gtk-py2 | vim-gtk3-py2 | vim-athena-py2 | vim-nox-py2
+Breaks: vim-tiny (<< 2:7.4.1689-3ubuntu1.4)
+Enhances: vim-tiny
+Description: Vi IMproved - Runtime files
+ Vim is an almost compatible version of the UNIX editor Vi.
+ .
+ This package contains vimtutor and the architecture independent runtime
+ files, used, if available, by all vim variants available in Debian.
+ Example of such runtime files are: online documentation, rules for
+ language-specific syntax highlighting and indentation, color schemes,
+ and standard plugins.
+Homepage: http://www.vim.org/
+Original-Maintainer: Debian Vim Maintainers <pkg-vim-maintainers@lists.alioth.debian.org>
 
 Package: libpam-modules
 Status: install ok installed
@@ -3526,6 +3728,25 @@ Description: GNU Libidn library, implementation of IETF IDN specifications
 Homepage: https://www.gnu.org/software/libidn/
 Original-Maintainer: Debian Libidn Team <help-libidn@gnu.org>
 
+Package: libmpdec2
+Status: install ok installed
+Priority: optional
+Section: libs
+Installed-Size: 247
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Multi-Arch: same
+Source: mpdecimal
+Version: 2.4.2-1
+Replaces: libmpdec2.3
+Depends: libc6 (>= 2.14)
+Breaks: libmpdec2.3
+Description: library for decimal floating point arithmetic (runtime library)
+ mpdecimal is a package for correctly-rounded arbitrary precision decimal
+ floating point arithmetic.
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Homepage: http://www.bytereef.org/mpdecimal/index.html
+
 Package: ubuntu-keyring
 Status: install ok installed
 Priority: important
@@ -3617,6 +3838,26 @@ Description: Micro string library: shared library
  This package contains the shared library.
 Original-Maintainer: Vaclav Ovsik <vaclav.ovsik@i.cz>
 Homepage: http://www.and.org/ustr/
+
+Package: libpython3.5-minimal
+Status: install ok installed
+Priority: optional
+Section: python
+Installed-Size: 3756
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Architecture: amd64
+Multi-Arch: same
+Source: python3.5
+Version: 3.5.2-2ubuntu0~16.04.10
+Depends: libc6 (>= 2.14), libssl1.0.0 (>= 1.0.2~beta3)
+Recommends: libpython3.5-stdlib
+Conflicts: binfmt-support (<< 1.1.2)
+Conffiles:
+ /etc/python3.5/sitecustomize.py d6b276695157bde06a56ba1b2bc53670
+Description: Minimal subset of the Python language (version 3.5)
+ This package contains some essential modules. It is normally not
+ used on it's own, but as a dependency of python3.5-minimal.
+Original-Maintainer: Matthias Klose <doko@debian.org>
 
 Package: sed
 Essential: yes

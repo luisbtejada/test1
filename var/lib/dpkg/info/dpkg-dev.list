@@ -35,7 +35,6 @@
 /usr/share/man/man5/deb-triggers.5.gz
 /usr/share/man/man5/deb-origin.5.gz
 /usr/share/man/man5/deb-version.5.gz
-/usr/share/man/ja
 /usr/share/man/ja/man5
 /usr/share/man/ja/man5/deb-shlibs.5.gz
 /usr/share/man/ja/man5/deb-extra-override.5.gz
@@ -44,7 +43,6 @@
 /usr/share/man/ja/man5/deb-override.5.gz
 /usr/share/man/ja/man5/deb-substvars.5.gz
 /usr/share/man/ja/man5/deb-origin.5.gz
-/usr/share/man/ja/man1
 /usr/share/man/ja/man1/dpkg-mergechangelogs.1.gz
 /usr/share/man/ja/man1/dpkg-gensymbols.1.gz
 /usr/share/man/ja/man1/dpkg-gencontrol.1.gz
@@ -114,7 +112,6 @@
 /usr/share/man/sv/man1/dpkg-scanpackages.1.gz
 /usr/share/man/sv/man1/dpkg-name.1.gz
 /usr/share/man/sv/man1/dpkg-buildpackage.1.gz
-/usr/share/man/fr
 /usr/share/man/fr/man5
 /usr/share/man/fr/man5/deb-shlibs.5.gz
 /usr/share/man/fr/man5/deb.5.gz
@@ -128,7 +125,6 @@
 /usr/share/man/fr/man5/deb-triggers.5.gz
 /usr/share/man/fr/man5/deb-origin.5.gz
 /usr/share/man/fr/man5/deb-version.5.gz
-/usr/share/man/fr/man1
 /usr/share/man/fr/man1/dpkg-mergechangelogs.1.gz
 /usr/share/man/fr/man1/dpkg-gensymbols.1.gz
 /usr/share/man/fr/man1/dpkg-gencontrol.1.gz
@@ -142,7 +138,6 @@
 /usr/share/man/fr/man1/dpkg-scanpackages.1.gz
 /usr/share/man/fr/man1/dpkg-name.1.gz
 /usr/share/man/fr/man1/dpkg-buildpackage.1.gz
-/usr/share/man/pl
 /usr/share/man/pl/man5
 /usr/share/man/pl/man5/deb-shlibs.5.gz
 /usr/share/man/pl/man5/deb-extra-override.5.gz
@@ -151,7 +146,6 @@
 /usr/share/man/pl/man5/deb-override.5.gz
 /usr/share/man/pl/man5/deb-substvars.5.gz
 /usr/share/man/pl/man5/deb-origin.5.gz
-/usr/share/man/pl/man1
 /usr/share/man/pl/man1/dpkg-mergechangelogs.1.gz
 /usr/share/man/pl/man1/dpkg-gensymbols.1.gz
 /usr/share/man/pl/man1/dpkg-gencontrol.1.gz
@@ -180,7 +174,6 @@
 /usr/share/man/es/man1/dpkg-distaddfile.1.gz
 /usr/share/man/es/man1/dpkg-scanpackages.1.gz
 /usr/share/man/es/man1/dpkg-name.1.gz
-/usr/share/man/it
 /usr/share/man/it/man5
 /usr/share/man/it/man5/deb-shlibs.5.gz
 /usr/share/man/it/man5/deb.5.gz
@@ -192,7 +185,6 @@
 /usr/share/man/it/man5/deb-src-control.5.gz
 /usr/share/man/it/man5/deb-origin.5.gz
 /usr/share/man/it/man5/deb-version.5.gz
-/usr/share/man/it/man1
 /usr/share/man/it/man1/dpkg-gencontrol.1.gz
 /usr/share/man/it/man1/dpkg-scansources.1.gz
 /usr/share/man/it/man1/dpkg-vendor.1.gz

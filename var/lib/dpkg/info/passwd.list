@@ -209,7 +209,6 @@
 /usr/share/man/da/man1/chfn.1.gz
 /usr/share/man/da/man5
 /usr/share/man/da/man5/gshadow.5.gz
-/usr/share/man/ru
 /usr/share/man/ru/man8
 /usr/share/man/ru/man8/pwck.8.gz
 /usr/share/man/ru/man8/useradd.8.gz
@@ -227,7 +226,6 @@
 /usr/share/man/ru/man8/usermod.8.gz
 /usr/share/man/ru/man8/newusers.8.gz
 /usr/share/man/ru/man8/groupmod.8.gz
-/usr/share/man/ru/man1
 /usr/share/man/ru/man1/expiry.1.gz
 /usr/share/man/ru/man1/chsh.1.gz
 /usr/share/man/ru/man1/gpasswd.1.gz

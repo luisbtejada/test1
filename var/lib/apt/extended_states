@@ -226,3 +226,43 @@ Package: liberror-perl
 Architecture: amd64
 Auto-Installed: 1
 
+Package: vim-common
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libpython3.5
+Architecture: amd64
+Auto-Installed: 1
+
+Package: mime-support
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libmagic1
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libmpdec2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: vim-runtime
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libgpm2
+Architecture: amd64
+Auto-Installed: 1
+
+Package: file
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libpython3.5-stdlib
+Architecture: amd64
+Auto-Installed: 1
+
+Package: libpython3.5-minimal
+Architecture: amd64
+Auto-Installed: 1
+
