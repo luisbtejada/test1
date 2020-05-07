@@ -26,21 +26,26 @@
 	"
 
 # File marks:
-'0  15  34  /etc/crontab
-'1  1  0  /etc/crontab
-'2  2  70  /gitpull.sh
-'3  1  0  /mss.sh
-'4  3  37  /mss.sh
-'5  3  17  /mfs.sh
-'6  1  0  /mfs.sh
-'7  2  0  /mfs.sh
-'8  1  23  /mfs.sh
+'0  12  0  /gitpull.sh
+'1  3  0  /gitpull.sh
+'2  15  70  /gitpull.sh
+'3  1  0  /.git/MERGE_MSG
+'4  15  34  /etc/crontab
+'5  1  0  /etc/crontab
+'6  14  70  /gitpull.sh
+'7  1  0  /mss.sh
+'8  3  37  /mss.sh
+'9  3  17  /mfs.sh
 
 # Jumplist (newest first):
+-'  12  0  /gitpull.sh
+-'  1  0  /gitpull.sh
+-'  3  0  /gitpull.sh
+-'  15  70  /gitpull.sh
+-'  1  0  /.git/MERGE_MSG
 -'  15  34  /etc/crontab
 -'  1  0  /etc/crontab
--'  2  70  /gitpull.sh
--'  1  0  /gitpull.sh
+-'  14  70  /gitpull.sh
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
 -'  3  17  /mfs.sh
@@ -77,8 +82,6 @@
 -'  1  0  /mfs.sh
 -'  2  0  /mfs.sh
 -'  4  0  /mfs.sh
--'  2  70  /gitpull.sh
--'  1  0  /gitpull.sh
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
 -'  3  17  /mfs.sh
@@ -115,8 +118,6 @@
 -'  1  0  /mfs.sh
 -'  2  0  /mfs.sh
 -'  4  0  /mfs.sh
--'  2  70  /gitpull.sh
--'  1  0  /gitpull.sh
 -'  1  0  /mss.sh
 -'  3  37  /mss.sh
 -'  3  17  /mfs.sh
@@ -133,21 +134,32 @@
 -'  4  0  /mfs.sh
 -'  3  17  /mfs.sh
 -'  1  0  /mfs.sh
--'  2  0  /mfs.sh
+-'  1  0  /.git/MERGE_MSG
 
 # History of marks within files (newest to oldest):
+
+> /gitpull.sh
+	"	12	0
+	^	12	0
+	.	12	0
+	+	14	9
+	+	13	0
+	+	2	0
+	+	12	27
+	+	14	71
+	+	16	0
+	+	2	11
+	+	11	3
+	+	12	0
+
+> /.git/MERGE_MSG
+	"	1	0
 
 > /etc/crontab
 	"	15	34
 	^	15	35
 	.	15	35
 	+	15	35
-
-> /gitpull.sh
-	"	2	70
-	^	2	71
-	.	2	9
-	+	2	9
 
 > /mss.sh
 	"	1	0
