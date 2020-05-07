@@ -26,19 +26,22 @@
 	"
 
 # File marks:
-'0  1  0  /test.log
-'1  23  0  /tmp/crontab.PLPXNk/crontab
-'2  1  0  /mfs.sh
-'3  4  24  /mfs.sh
-'4  16  8  /gitpull.sh
-'5  1  0  /.git/MERGE_MSG
-'6  13  10  /gitpull.sh
-'7  23  33  /tmp/crontab.CPXmHp/crontab
-'8  1  8  /gitpull.sh
-'9  23  0  /tmp/crontab.E6iPxa/crontab
+'0  1  0  /gitpull.log
+'1  1  0  /test.log
+'2  23  52  /tmp/crontab.nM2Mp1/crontab
+'3  23  0  /tmp/crontab.PLPXNk/crontab
+'4  1  0  /mfs.sh
+'5  4  24  /mfs.sh
+'6  16  8  /gitpull.sh
+'7  1  0  /.git/MERGE_MSG
+'8  13  10  /gitpull.sh
+'9  23  33  /tmp/crontab.CPXmHp/crontab
 
 # Jumplist (newest first):
+-'  1  0  /gitpull.log
 -'  1  0  /test.log
+-'  23  52  /tmp/crontab.nM2Mp1/crontab
+-'  1  0  /tmp/crontab.nM2Mp1/crontab
 -'  23  0  /tmp/crontab.PLPXNk/crontab
 -'  1  0  /tmp/crontab.PLPXNk/crontab
 -'  1  0  /mfs.sh
@@ -133,14 +136,20 @@
 -'  1  0  /.git/MERGE_MSG
 -'  13  10  /gitpull.sh
 -'  16  8  /gitpull.sh
--'  1  0  /gitpull.sh
--'  1  0  /.git/MERGE_MSG
--'  13  10  /gitpull.sh
 
 # History of marks within files (newest to oldest):
 
+> /gitpull.log
+	"	1	0
+
 > /test.log
 	"	1	0
+
+> /tmp/crontab.nM2Mp1/crontab
+	"	23	52
+	^	23	53
+	.	23	52
+	+	23	52
 
 > /tmp/crontab.PLPXNk/crontab
 	"	23	0
