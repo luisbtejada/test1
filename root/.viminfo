@@ -26,21 +26,22 @@
 	"
 
 # File marks:
-'0  2  10  /var/log/newfile
-'1  1  0  /gitpull.log
-'2  1  0  /tmp/crontab.sl7kkG/crontab
-'3  1  0  /dev/termination-log
-'4  1  0  /dev/terminantion-log.log
-'5  1  0  /dev/termination.log
-'6  1  0  /gitpull.sh
-'7  1  0  /gitpull.
-'8  1  0  /test.log
-'9  23  52  /tmp/crontab.nM2Mp1/crontab
+'0  145  0  /gitpull.log
+'1  2  10  /var/log/newfile
+'2  1  0  /gitpull.log
+'3  1  0  /tmp/crontab.sl7kkG/crontab
+'4  1  0  /dev/termination-log
+'5  1  0  /dev/terminantion-log.log
+'6  1  0  /dev/termination.log
+'7  1  0  /gitpull.sh
+'8  1  0  /gitpull.
+'9  1  0  /test.log
 
 # Jumplist (newest first):
+-'  145  0  /gitpull.log
+-'  1  0  /gitpull.log
 -'  2  10  /var/log/newfile
 -'  1  0  /var/log/newfile
--'  1  0  /gitpull.log
 -'  1  0  /tmp/crontab.sl7kkG/crontab
 -'  1  0  /dev/termination-log
 -'  1  0  /dev/terminantion-log.log
@@ -135,19 +136,17 @@
 -'  23  1  /tmp/crontab.6vXY54/crontab
 -'  1  0  /tmp/crontab.6vXY54/crontab
 -'  1  0  /tmp/crontab.HaOJhk/crontab
--'  23  22  /tmp/crontab.N17Nh9/crontab
--'  1  0  /tmp/crontab.N17Nh9/crontab
 
 # History of marks within files (newest to oldest):
+
+> /gitpull.log
+	"	145	0
 
 > /var/log/newfile
 	"	2	10
 	^	2	11
 	.	2	10
 	+	2	10
-
-> /gitpull.log
-	"	1	0
 
 > /tmp/crontab.sl7kkG/crontab
 	"	1	0
