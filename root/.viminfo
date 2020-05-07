@@ -26,20 +26,21 @@
 	"
 
 # File marks:
-'0  24  57  /cronexample
-'1  1  0  /tmp/crontab.pM46WY/crontab
-'2  1  0  /var/log/newfile
-'3  1  0  /tmp/crontab.6CVS7u/crontab
-'4  1  20  /dev/termination-log
-'5  145  0  /gitpull.log
-'6  2  10  /var/log/newfile
-'7  1  0  /gitpull.log
-'8  1  0  /tmp/crontab.sl7kkG/crontab
-'9  1  0  /dev/terminantion-log.log
+'0  25  45  /cronexample
+'1  23  114  /cronexample
+'2  1  0  /tmp/crontab.pM46WY/crontab
+'3  1  0  /var/log/newfile
+'4  1  0  /tmp/crontab.6CVS7u/crontab
+'5  1  20  /dev/termination-log
+'6  145  0  /gitpull.log
+'7  2  10  /var/log/newfile
+'8  1  0  /gitpull.log
+'9  1  0  /tmp/crontab.sl7kkG/crontab
 
 # Jumplist (newest first):
--'  24  57  /cronexample
+-'  25  45  /cronexample
 -'  1  0  /cronexample
+-'  23  114  /cronexample
 -'  1  0  /tmp/crontab.pM46WY/crontab
 -'  1  0  /var/log/newfile
 -'  1  0  /tmp/crontab.6CVS7u/crontab
@@ -135,16 +136,16 @@
 -'  23  0  /tmp/crontab.E6iPxa/crontab
 -'  23  33  /tmp/crontab.CPXmHp/crontab
 -'  1  0  /tmp/crontab.CPXmHp/crontab
--'  23  0  /tmp/crontab.E6iPxa/crontab
--'  1  0  /tmp/crontab.E6iPxa/crontab
 
 # History of marks within files (newest to oldest):
 
 > /cronexample
-	"	24	57
-	^	24	58
-	.	24	0
-	+	24	0
+	"	25	45
+	^	25	46
+	.	25	0
+	+	23	57
+	+	23	57
+	+	25	0
 
 > /tmp/crontab.pM46WY/crontab
 	"	1	0

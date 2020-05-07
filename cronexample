@@ -21,4 +21,6 @@
 # 
 # m h  dom mon dow   comman
 */1 *   *   *   *    cd / && bash gitpull.sh>>gitpull.log
+
+root@hello-node-7bf657c596-vbbrr:/# crontab -e
 ~                                                         
