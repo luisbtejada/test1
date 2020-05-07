@@ -1,0 +1,1487 @@
+[master 59fe911] Thu May  7 12:21:01 2020
+ 2 files changed, 24 insertions(+), 15 deletions(-)
+Already up-to-date.
+[master c64e6fe] Thu May  7 12:22:01 2020
+ 1 file changed, 1 deletion(-)
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 9 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 9 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 9 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 9 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 9 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 9 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 9 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+[master fce556a] Thu May  7 12:30:01 2020
+ 1 file changed, 37 insertions(+), 36 deletions(-)
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 10 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Updating fce556a..a0e8d92
+On branch master
+Your branch is ahead of 'origin/master' by 10 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Updating fce556a..a0e8d92
+[master 549293e] Thu May  7 12:33:01 2020
+ 1 file changed, 16 insertions(+), 10 deletions(-)
+[master 0d5f525] Thu May  7 12:34:01 2020
+ 1 file changed, 22 insertions(+), 13 deletions(-)
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 3 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 3 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+[master 796c367] Thu May  7 12:37:01 2020
+ 2 files changed, 20 insertions(+), 10 deletions(-)
+ create mode 100644 var/log/newfile
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 5 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 5 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 5 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 5 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 5 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+On branch master
+Your branch and 'origin/master' have diverged,
+and have 5 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+[master 33c0338] Thu May  7 12:44:01 2020
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 dev/.termination-log.swp
+[master c2d8b6a] Thu May  7 12:45:01 2020
+Already up-to-date.
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+[master d618756] Thu May  7 12:47:01 2020
+ 1 file changed, 14 insertions(+), 10 deletions(-)
+Merge made by the 'recursive' strategy.
+ var/log/newfile | 2 ++
+ 1 file changed, 2 insertions(+)
+[master 25bf807] Thu May  7 12:48:01 2020
+ 1 file changed, 17 insertions(+), 18 deletions(-)
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+[master 00725ba] Thu May  7 12:54:01 2020
+ 1 file changed, 294 insertions(+)
+ create mode 100644 root/.bash_history
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	gitpull.log
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
+[master 3f1f368] Thu May  7 14:34:01 2020
+ 1 file changed, 14 insertions(+), 10 deletions(-)
+Already up-to-date.
+[master 1795a66] Thu May  7 14:35:01 2020
+ 1 file changed, 18 insertions(+), 11 deletions(-)
+Already up-to-date.
