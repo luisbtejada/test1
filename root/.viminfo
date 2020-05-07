@@ -26,18 +26,19 @@
 	"
 
 # File marks:
-'0  16  15  /gitpull.sh
-'1  1  0  /mfs.sh
-'2  13  10  /gitpull.sh
-'3  23  33  /tmp/crontab.CPXmHp/crontab
-'4  1  8  /gitpull.sh
-'5  23  0  /tmp/crontab.E6iPxa/crontab
-'6  11  11  /gitpull.sh
-'7  23  1  /tmp/crontab.6vXY54/crontab
-'8  1  0  /tmp/crontab.HaOJhk/crontab
-'9  23  22  /tmp/crontab.N17Nh9/crontab
+'0  1  0  /.git/MERGE_MSG
+'1  16  15  /gitpull.sh
+'2  1  0  /mfs.sh
+'3  13  10  /gitpull.sh
+'4  23  33  /tmp/crontab.CPXmHp/crontab
+'5  1  8  /gitpull.sh
+'6  23  0  /tmp/crontab.E6iPxa/crontab
+'7  11  11  /gitpull.sh
+'8  23  1  /tmp/crontab.6vXY54/crontab
+'9  1  0  /tmp/crontab.HaOJhk/crontab
 
 # Jumplist (newest first):
+-'  1  0  /.git/MERGE_MSG
 -'  16  15  /gitpull.sh
 -'  1  0  /gitpull.sh
 -'  1  0  /mfs.sh
@@ -53,7 +54,6 @@
 -'  23  22  /tmp/crontab.N17Nh9/crontab
 -'  1  0  /tmp/crontab.N17Nh9/crontab
 -'  4  0  /gitpull.sh
--'  1  0  /.git/MERGE_MSG
 -'  15  34  /etc/crontab
 -'  1  0  /etc/crontab
 -'  15  70  /gitpull.sh
@@ -79,7 +79,6 @@
 -'  1  0  /tmp/crontab.HaOJhk/crontab
 -'  23  22  /tmp/crontab.N17Nh9/crontab
 -'  1  0  /tmp/crontab.N17Nh9/crontab
--'  1  0  /.git/MERGE_MSG
 -'  15  34  /etc/crontab
 -'  1  0  /etc/crontab
 -'  1  0  /mss.sh
@@ -102,7 +101,6 @@
 -'  1  0  /tmp/crontab.HaOJhk/crontab
 -'  23  22  /tmp/crontab.N17Nh9/crontab
 -'  1  0  /tmp/crontab.N17Nh9/crontab
--'  1  0  /.git/MERGE_MSG
 -'  15  34  /etc/crontab
 -'  1  0  /etc/crontab
 -'  1  0  /mss.sh
@@ -121,8 +119,25 @@
 -'  23  33  /tmp/crontab.CPXmHp/crontab
 -'  1  0  /tmp/crontab.CPXmHp/crontab
 -'  23  0  /tmp/crontab.E6iPxa/crontab
+-'  16  15  /gitpull.sh
+-'  1  0  /gitpull.sh
+-'  1  0  /mfs.sh
+-'  13  10  /gitpull.sh
+-'  23  33  /tmp/crontab.CPXmHp/crontab
+-'  1  0  /tmp/crontab.CPXmHp/crontab
+-'  23  0  /tmp/crontab.E6iPxa/crontab
+-'  1  0  /tmp/crontab.E6iPxa/crontab
+-'  11  11  /gitpull.sh
+-'  23  1  /tmp/crontab.6vXY54/crontab
+-'  1  0  /tmp/crontab.6vXY54/crontab
+-'  1  0  /tmp/crontab.HaOJhk/crontab
+-'  23  22  /tmp/crontab.N17Nh9/crontab
+-'  1  0  /tmp/crontab.N17Nh9/crontab
 
 # History of marks within files (newest to oldest):
+
+> /.git/MERGE_MSG
+	"	1	0
 
 > /gitpull.sh
 	"	16	15
@@ -182,9 +197,6 @@
 	.	23	22
 	+	23	0
 	+	23	22
-
-> /.git/MERGE_MSG
-	"	1	0
 
 > /etc/crontab
 	"	15	34
