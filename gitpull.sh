@@ -1,3 +1,4 @@
+#!/bin/sh
 NOW=$(date +"%c")
 git add usr
 git add bin
