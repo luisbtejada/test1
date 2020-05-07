@@ -1503,3 +1503,13 @@ Already up-to-date.
 [master a4c918a] Thu May  7 14:38:01 2020
  3 files changed, 30 insertions(+), 17 deletions(-)
 Already up-to-date.
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	mss.sh
+	proc/
+	sys/
+	test.log
+
+nothing added to commit but untracked files present
+Already up-to-date.
