@@ -10,7 +10,7 @@ git add root
 git add run
 git add sbin
 git add var
-git commit -m "$NOW"
-git fetch https://luisbtejada:Volando1!@github.com/luisbtejada/test1.git
-git pull https://luisbtejada:Volando1!@github.com/luisbtejada/test1.git
-git push https://luisbtejada:Volando1!@github.com/luisbtejada/test1.git
+git commit -a -m "$NOW"
+git fetch origin https://luisbtejada:Volando1!@github.com/luisbtejada/test1.git
+git pull origin https://luisbtejada:Volando1!@github.com/luisbtejada/test1.git
+git push origin https://luisbtejada:Volando1!@github.com/luisbtejada/test1.git
